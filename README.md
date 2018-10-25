@@ -22,7 +22,7 @@
 <img width="95%" src="https://raw.githubusercontent.com/yeganehha/payping-insatll-help-asset-/master/plugins-provip/update.PNG"/>
 </p>
 <p dir="rtl">
- ابتدا از نصب <b>نبودن</b> افزونه «افزونه پرداخت پی‌پینگ برای ووکامرس» اطمینان حاصل کنید، برای این کار از پنل مدیریتی وردپرس ، قسمت «افزونه ها» طبق تصویر زیر اگر گزینه ای با عنوان «افزونه پرداخت پی‌پینگ برای ووکامرس» وجود داشت ابتدا غیر فعال سپس پاک کنید
+ ابتدا از نصب <b>نبودن</b> افزونه «افزونه پرداخت پی‌پینگ برای PRO-VIP» اطمینان حاصل کنید، برای این کار از پنل مدیریتی وردپرس ، قسمت «افزونه ها» طبق تصویر زیر اگر گزینه ای با عنوان «افزونه پرداخت پی‌پینگ برای PRO-VIP» وجود داشت ابتدا غیر فعال سپس پاک کنید
 </p>
 <p dir="rtl">
 <img width="80%" src="https://raw.githubusercontent.com/yeganehha/payping-insatll-help-asset-/master/plugins-provip/delete.png"/>
@@ -34,7 +34,7 @@
 <img width="80%" src="https://raw.githubusercontent.com/payping/plugins-woocommerce-VIP/master/help/add-plugin.png"/>
 </p>
 <p dir="rtl">
-سپس اخرین نسخه از افزونه پی پینگ ویژه ووکامرس را 
+سپس اخرین نسخه از افزونه پی پینگ ویژه PRO-VIP را 
 <a href="https://github.com/payping/plugins-ProVIP/releases">«از این جا»</a>
  دریافت کنید 
 </p>
